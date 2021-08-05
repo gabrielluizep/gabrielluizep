@@ -1,0 +1,27 @@
+{
+  "name": "gabrielluizep",
+  "version": "1.0.0",
+  "description": "About me",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d gh-page",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielluizep/gabrielluizep.git"
+  },
+  "keywords": [
+    "gabrielluizep"
+  ],
+  "author": "Gabriel Luiz Espindola Pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielluizep/gabrielluizep/issues"
+  },
+  "homepage": "https://github.com/gabrielluizep/gabrielluizep#readme"
+}
