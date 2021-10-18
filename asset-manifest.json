@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gabrielluizep/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gabrielluizep/static/js/main.fb3d4ee5.chunk.js",
+    "main.js.map": "/gabrielluizep/static/js/main.fb3d4ee5.chunk.js.map",
+    "runtime-main.js": "/gabrielluizep/static/js/runtime-main.128926dc.js",
+    "runtime-main.js.map": "/gabrielluizep/static/js/runtime-main.128926dc.js.map",
+    "static/js/2.f1ef1c54.chunk.js": "/gabrielluizep/static/js/2.f1ef1c54.chunk.js",
+    "static/js/2.f1ef1c54.chunk.js.map": "/gabrielluizep/static/js/2.f1ef1c54.chunk.js.map",
+    "static/js/3.dd1cf381.chunk.js": "/gabrielluizep/static/js/3.dd1cf381.chunk.js",
+    "static/js/3.dd1cf381.chunk.js.map": "/gabrielluizep/static/js/3.dd1cf381.chunk.js.map",
+    "index.html": "/gabrielluizep/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gabrielluizep/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f1ef1c54.chunk.js.LICENSE.txt": "/gabrielluizep/static/js/2.f1ef1c54.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gabrielluizep/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.128926dc.js",
+    "static/js/2.f1ef1c54.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fb3d4ee5.chunk.js"
+  ]
+}
